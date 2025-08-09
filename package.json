@@ -1,0 +1,11 @@
+{
+  "name": "polish-course",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Dev server placeholder\"",
+    "build": "echo \"Build placeholder\"",
+    "start": "echo \"Start server placeholder\"",
+    "clean": "echo \"Clean placeholder\""
+  }
+}
